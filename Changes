@@ -1,5 +1,6 @@
 Release history for Dist-Zilla-PluginBundle-Silex
 
 {{ $NEXT }}
-    First version, released on unsuspecting world.
+    - First version, released on unsuspecting world.
+    - Add catalyst plugin
 

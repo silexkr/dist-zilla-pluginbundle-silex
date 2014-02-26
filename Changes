@@ -1,6 +1,4 @@
-Release history for Dist-Zilla-PluginBundle-Silex
+Release history for Dist::Zilla::PluginBundle::SILEX
 
-{{ $NEXT }}
-    - First version, released on unsuspecting world.
-    - Add catalyst plugin
-
+{{$NEXT}}
+    - new dzil config for SILEX

@@ -25,6 +25,7 @@ with 'Dist::Zilla::Role::PluginBundle::PluginRemover';
 
 sub mvp_multivalue_args {qw(
     RemovePrereqs.remove
+    stopwords
 )}
 
 has authority => (

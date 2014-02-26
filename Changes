@@ -1,0 +1,4 @@
+Release history for Dist::Zilla::PluginBundle::SILEX
+
+{{$NEXT}}
+    - new dzil config for SILEX

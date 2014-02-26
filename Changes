@@ -1,4 +1,6 @@
 Release history for Dist::Zilla::PluginBundle::SILEX
 
 {{$NEXT}}
+
+v0.0.1    2014-02-26 17:31:27+09:00 Asia/Seoul
     - new dzil config for SILEX

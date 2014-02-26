@@ -1,4 +1,24 @@
-Dist-Zilla-PluginBundle-Silex-*
+# dzil generated files #
+########################
+Dist-Zilla-PluginBundle-SILEX-*
+
+# perl build files #
+####################
+blib/
+.build/
+_build/
+cover_db/
+inc/
+Build
+Build.bat
+.last_cover_stats
+Makefile
+Makefile.old
+MANIFEST.bak
+META.yml
+MYMETA.yml
+nytprof.out
+pm_to_blib
 
 # Compiled source #
 ###################
@@ -26,7 +46,7 @@ Dist-Zilla-PluginBundle-Silex-*
 # Logs and databases #
 ######################
 *.log
-*.sql
+#*.sql
 *.sqlite
 
 # OS generated files #

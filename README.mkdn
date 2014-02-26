@@ -4,7 +4,7 @@ Dist::Zilla::PluginBundle::SILEX - Dist::Zilla configuration the way SILEX does 
 
 # VERSION
 
-version v0.0.1
+version v0.0.2
 
 # SYNOPSIS
 

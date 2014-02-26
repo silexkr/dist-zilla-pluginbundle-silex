@@ -353,7 +353,7 @@ following dist.ini:
 
 Release process:
 
-  $ git checkout develop 
+  $ git checkout develop
   $ git rebase origin/develop
   $ dzil test
   $ #

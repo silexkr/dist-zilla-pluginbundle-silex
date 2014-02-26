@@ -1,6 +1,7 @@
 # dzil generated files #
 ########################
 Dist-Zilla-PluginBundle-SILEX-*
+.gitnxtver_cache
 
 # perl build files #
 ####################

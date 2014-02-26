@@ -1,5 +1,5 @@
 requires "Dist::Zilla" => "5";
-requires "Dist::Zilla::Plugin::ReadmeFromPod" => "0.133360";
+requires "Dist::Zilla::Plugin::ReadmeAnyFromPod" => "0.133360";
 requires "Dist::Zilla::PluginBundle::DAGOLDEN" => "0.062";
 requires "Dist::Zilla::Role::PluginBundle::PluginRemover" => "0";
 requires "Dist::Zilla::Util" => "0";

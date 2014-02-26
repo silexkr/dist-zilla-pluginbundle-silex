@@ -14,7 +14,7 @@ use Dist::Zilla 5; # Number 5 is ALIVE!
 
 use Dist::Zilla::PluginBundle::DAGOLDEN 0.062 ();
 
-use Dist::Zilla::Plugin::ReadmeFromPod 0.133360 ();
+use Dist::Zilla::Plugin::ReadmeAnyFromPod 0.133360 ();
 
 use Dist::Zilla::Util ();
 use List::MoreUtils;
